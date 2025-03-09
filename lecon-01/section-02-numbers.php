@@ -1,6 +1,6 @@
 <?php
-// Leçon : Opérations numériques en PHP 8.x
-// Cette leçon présente les opérations arithmétiques, les opérateurs d'assignation, d'incrémentation/décrémentation 
+//  Section: Opérations numériques en PHP 8.x
+// Cette Section présente les opérations arithmétiques, les opérateurs d'assignation, d'incrémentation/décrémentation 
 // ainsi que les fonctions mathématiques, en mettant en avant les nouveautés de PHP 8.x.
 
 // 1. Déclaration de nombres

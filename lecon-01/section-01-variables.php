@@ -58,4 +58,3 @@ echo PHP_INT_MAX . '<br>';  // Valeur maximale d'un entier
 
 // Bonus : Interpolation de chaînes (PHP 8 supporte cette syntaxe de manière optimale)
 echo "Nom 2 : $nom2, Âge : $age<br>";
-?>

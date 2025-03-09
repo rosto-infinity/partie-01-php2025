@@ -1,5 +1,5 @@
 <?php
-// Leçon : Chaînes de caractères et fonctions associées en PHP 8.x
+// Section on : Chaînes de caractères et fonctions associées en PHP 8.x
 
 // 1. Création d'une chaîne simple avec extraction de variable
 $author = "Owen";
